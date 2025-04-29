@@ -11,6 +11,15 @@ export const bangs = [
     u: "https://www.t3.chat/new?q={{{s}}}",
   },
   {
+    c: "AI",
+    d: "localhost:3333",
+    r: 0,
+    s: "OpenWebUI",
+    sc: "AI",
+    t: "owui",
+    u: "http://localhost:3333/?q={{{s}}}&web-search=true"
+  },
+  {
     c: "Tech",
     d: "www.01net.com",
     r: 4,
