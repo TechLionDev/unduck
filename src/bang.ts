@@ -20,6 +20,15 @@ export const bangs = [
     u: "http://localhost:3333/?q={{{s}}}&web-search=true"
   },
   {
+    c: "AI",
+    d: "www.perplexity.ai",
+    r: 0,
+    s: "Perplexity AI",
+    sc: "AI",
+    t: "qai",
+    u: "https://www.perplexity.ai/?q={{{s}}}"
+  },
+  {
     c: "Tech",
     d: "www.01net.com",
     r: 4,
