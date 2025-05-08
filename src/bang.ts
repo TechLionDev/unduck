@@ -17,7 +17,7 @@ export const bangs = [
     s: "OpenWebUI",
     sc: "AI",
     t: "owui",
-    u: "http://localhost:3333/?q={{{s}}}&web-search=true"
+    u: "http://localhost:3333/?q={{{s}}}"
   },
   {
     c: "AI",
